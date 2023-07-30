@@ -1,0 +1,26 @@
+.header {
+    padding-left: 22px !important;
+    padding-right: 2px !important;
+    padding-top: 2px !important;
+    padding-bottom: 8px !important;
+    margin: 0px !important;
+    background: #4154f1;
+    color: rgb(0, 76, 143);
+    font-size: 28px;
+    position: relative;
+}
+.header-title {
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+    display: inline-block;
+}
+#hicon:hover {
+    cursor: pointer;
+}
+#htitle:hover {
+    cursor: pointer;
+}
+#set:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,25 @@
+#popup-body {
+    height: 500px;
+    width: 400px;
+}
+#popup-error {
+    position: absolute;
+    background: rgba(0,0,0,0.5);
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    display: none;
+    color: white;
+}
+#error-body {
+    background: white;
+    color: black;
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 18px black;
+}

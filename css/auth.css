@@ -1,0 +1,65 @@
+.contact100-form-title {
+    display: block;
+    font-family: UniSans;
+    font-size: 30px;
+    color: #3C0062;
+    line-height: 1.2;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 49px;
+    font-weight: bold;
+}
+.wrap-input100 {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 31px;
+    margin-bottom: 16px;
+    position: relative;
+    z-index: 1;
+}
+.validate-input {
+    position: relative;
+}
+button, input {
+    overflow: visible;
+}
+input {
+    outline: none;
+    border: none;
+}
+.input100 {
+    position: relative;
+    display: block;
+    width: 100%;
+    background: #fff;
+    border-radius: 31px;
+    font-family: UniSans;
+    font-size: 15px;
+    color: #3C0062;
+    line-height: 1.2;
+}
+input.input100 {
+    height: 62px;
+    padding: 0 35px;
+}
+.focus-input100 {
+    display: block;
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    border-radius: 31px;
+    background-color: #fff;
+    pointer-events: none;
+    -webkit-transition: all .4s;
+    -o-transition: all .4s;
+    -moz-transition: all .4s;
+    transition: all .4s;
+}

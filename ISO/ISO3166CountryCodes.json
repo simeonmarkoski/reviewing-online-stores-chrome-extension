@@ -1,0 +1,2537 @@
+[
+  {
+    "countryName": "Afghanistan",
+    "officialStateName": "The Islamic Republic of Afghanistan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "AF",
+    "alpha-3Code": "AFG",
+    "numericCode": "004",
+    "sudivisionCodeLinks": "ISO 3166-2:AF",
+    "internet": ".af"
+  },
+  {
+    "countryName": "Åland Islands",
+    "officialStateName": "Åland",
+    "sovereignty": "Finland",
+    "alpha-2Code": "AX",
+    "alpha-3Code": "ALA",
+    "numericCode": "248",
+    "sudivisionCodeLinks": "ISO 3166-2:AX",
+    "internet": ".ax"
+  },
+  {
+    "countryName": "Albania",
+    "officialStateName": "The Republic of Albania",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "AL",
+    "alpha-3Code": "ALB",
+    "numericCode": "008",
+    "sudivisionCodeLinks": "ISO 3166-2:AL",
+    "internet": ".al"
+  },
+  {
+    "countryName": "Algeria",
+    "officialStateName": "The People's Democratic Republic of Algeria",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "DZ",
+    "alpha-3Code": "DZA",
+    "numericCode": "012",
+    "sudivisionCodeLinks": "ISO 3166-2:DZ",
+    "internet": ".dz"
+  },
+  {
+    "countryName": "American Samoa",
+    "officialStateName": "The Territory of American Samoa",
+    "sovereignty": "United States",
+    "alpha-2Code": "AS",
+    "alpha-3Code": "ASM",
+    "numericCode": "016",
+    "sudivisionCodeLinks": "ISO 3166-2:AS",
+    "internet": ".as"
+  },
+  {
+    "countryName": "Andorra",
+    "officialStateName": "The Principality of Andorra",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "AD",
+    "alpha-3Code": "AND",
+    "numericCode": "020",
+    "sudivisionCodeLinks": "ISO 3166-2:AD",
+    "internet": ".ad"
+  },
+  {
+    "countryName": "Angola",
+    "officialStateName": "The Republic of Angola",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "AO",
+    "alpha-3Code": "AGO",
+    "numericCode": "024",
+    "sudivisionCodeLinks": "ISO 3166-2:AO",
+    "internet": ".ao"
+  },
+  {
+    "countryName": "Anguilla",
+    "officialStateName": "Anguilla",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "AI",
+    "alpha-3Code": "AIA",
+    "numericCode": "660",
+    "sudivisionCodeLinks": "ISO 3166-2:AI",
+    "internet": ".ai"
+  },
+  {
+    "countryName": "Antarctica",
+    "officialStateName": "All land and ice shelves south of the 60th parallel south",
+    "sovereignty": "Antarctic Treaty",
+    "alpha-2Code": "AQ",
+    "alpha-3Code": "ATA",
+    "numericCode": "010",
+    "sudivisionCodeLinks": "ISO 3166-2:AQ",
+    "internet": ".aq"
+  },
+  {
+    "countryName": "Antigua and Barbuda",
+    "officialStateName": "Antigua and Barbuda",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "AG",
+    "alpha-3Code": "ATG",
+    "numericCode": "028",
+    "sudivisionCodeLinks": "ISO 3166-2:AG",
+    "internet": ".ag"
+  },
+  {
+    "countryName": "Argentina",
+    "officialStateName": "The Argentine Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "AR",
+    "alpha-3Code": "ARG",
+    "numericCode": "032",
+    "sudivisionCodeLinks": "ISO 3166-2:AR",
+    "internet": ".ar"
+  },
+  {
+    "countryName": "Armenia",
+    "officialStateName": "The Republic of Armenia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "AM",
+    "alpha-3Code": "ARM",
+    "numericCode": "051",
+    "sudivisionCodeLinks": "ISO 3166-2:AM",
+    "internet": ".am"
+  },
+  {
+    "countryName": "Aruba",
+    "officialStateName": "Aruba",
+    "sovereignty": "Netherlands",
+    "alpha-2Code": "AW",
+    "alpha-3Code": "ABW",
+    "numericCode": "533",
+    "sudivisionCodeLinks": "ISO 3166-2:AW",
+    "internet": ".aw"
+  },
+  {
+    "countryName": "Australia",
+    "officialStateName": "The Commonwealth of Australia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "AU",
+    "alpha-3Code": "AUS",
+    "numericCode": "036",
+    "sudivisionCodeLinks": "ISO 3166-2:AU",
+    "internet": ".au"
+  },
+  {
+    "countryName": "Austria",
+    "officialStateName": "The Republic of Austria",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "AT",
+    "alpha-3Code": "AUT",
+    "numericCode": "040",
+    "sudivisionCodeLinks": "ISO 3166-2:AT",
+    "internet": ".at"
+  },
+  {
+    "countryName": "Azerbaijan",
+    "officialStateName": "The Republic of Azerbaijan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "AZ",
+    "alpha-3Code": "AZE",
+    "numericCode": "031",
+    "sudivisionCodeLinks": "ISO 3166-2:AZ",
+    "internet": ".az"
+  },
+  {
+    "countryName": "Bahamas (the)",
+    "officialStateName": "The Commonwealth of The Bahamas",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BS",
+    "alpha-3Code": "BHS",
+    "numericCode": "044",
+    "sudivisionCodeLinks": "ISO 3166-2:BS",
+    "internet": ".bs"
+  },
+  {
+    "countryName": "Bahrain",
+    "officialStateName": "The Kingdom of Bahrain",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BH",
+    "alpha-3Code": "BHR",
+    "numericCode": "048",
+    "sudivisionCodeLinks": "ISO 3166-2:BH",
+    "internet": ".bh"
+  },
+  {
+    "countryName": "Bangladesh",
+    "officialStateName": "The People's Republic of Bangladesh",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BD",
+    "alpha-3Code": "BGD",
+    "numericCode": "050",
+    "sudivisionCodeLinks": "ISO 3166-2:BD",
+    "internet": ".bd"
+  },
+  {
+    "countryName": "Barbados",
+    "officialStateName": "Barbados",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BB",
+    "alpha-3Code": "BRB",
+    "numericCode": "052",
+    "sudivisionCodeLinks": "ISO 3166-2:BB",
+    "internet": ".bb"
+  },
+  {
+    "countryName": "Belarus",
+    "officialStateName": "The Republic of Belarus",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BY",
+    "alpha-3Code": "BLR",
+    "numericCode": "112",
+    "sudivisionCodeLinks": "ISO 3166-2:BY",
+    "internet": ".by"
+  },
+  {
+    "countryName": "Belgium",
+    "officialStateName": "The Kingdom of Belgium",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BE",
+    "alpha-3Code": "BEL",
+    "numericCode": "056",
+    "sudivisionCodeLinks": "ISO 3166-2:BE",
+    "internet": ".be"
+  },
+  {
+    "countryName": "Belize",
+    "officialStateName": "Belize",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BZ",
+    "alpha-3Code": "BLZ",
+    "numericCode": "084",
+    "sudivisionCodeLinks": "ISO 3166-2:BZ",
+    "internet": ".bz"
+  },
+  {
+    "countryName": "Benin",
+    "officialStateName": "The Republic of Benin",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BJ",
+    "alpha-3Code": "BEN",
+    "numericCode": "204",
+    "sudivisionCodeLinks": "ISO 3166-2:BJ",
+    "internet": ".bj"
+  },
+  {
+    "countryName": "Bermuda",
+    "officialStateName": "Bermuda",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "BM",
+    "alpha-3Code": "BMU",
+    "numericCode": "060",
+    "sudivisionCodeLinks": "ISO 3166-2:BM",
+    "internet": ".bm"
+  },
+  {
+    "countryName": "Bhutan",
+    "officialStateName": "The Kingdom of Bhutan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BT",
+    "alpha-3Code": "BTN",
+    "numericCode": "064",
+    "sudivisionCodeLinks": "ISO 3166-2:BT",
+    "internet": ".bt"
+  },
+  {
+    "countryName": "Bolivia (Plurinational State of)",
+    "officialStateName": "The Plurinational State of Bolivia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BO",
+    "alpha-3Code": "BOL",
+    "numericCode": "068",
+    "sudivisionCodeLinks": "ISO 3166-2:BO",
+    "internet": ".bo"
+  },
+  {
+    "countryName": "Bonaire",
+    "officialStateName": "Bonaire, Sint Eustatius and Saba",
+    "sovereignty": "Netherlands",
+    "alpha-2Code": "BQ",
+    "alpha-3Code": "BES",
+    "numericCode": "535",
+    "sudivisionCodeLinks": "ISO 3166-2:BQ",
+    "internet": ".bq"
+  },
+  {
+    "countryName": "Sint Eustatius",
+    "officialStateName": "Bonaire, Sint Eustatius and Saba",
+    "sovereignty": "Netherlands",
+    "alpha-2Code": "BQ",
+    "alpha-3Code": "BES",
+    "numericCode": "535",
+    "sudivisionCodeLinks": "ISO 3166-2:BQ",
+    "internet": ".bq"
+  },
+  {
+    "countryName": "Saba",
+    "officialStateName": "Bonaire, Sint Eustatius and Saba",
+    "sovereignty": "Netherlands",
+    "alpha-2Code": "BQ",
+    "alpha-3Code": "BES",
+    "numericCode": "535",
+    "sudivisionCodeLinks": "ISO 3166-2:BQ",
+    "internet": ".bq"
+  },
+  {
+    "countryName": "Bosnia and Herzegovina",
+    "officialStateName": "Bosnia and Herzegovina",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BA",
+    "alpha-3Code": "BIH",
+    "numericCode": "070",
+    "sudivisionCodeLinks": "ISO 3166-2:BA",
+    "internet": ".ba"
+  },
+  {
+    "countryName": "Botswana",
+    "officialStateName": "The Republic of Botswana",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BW",
+    "alpha-3Code": "BWA",
+    "numericCode": "072",
+    "sudivisionCodeLinks": "ISO 3166-2:BW",
+    "internet": ".bw"
+  },
+  {
+    "countryName": "Bouvet Island",
+    "officialStateName": "Bouvet Island",
+    "sovereignty": "Norway",
+    "alpha-2Code": "BV",
+    "alpha-3Code": "BVT",
+    "numericCode": "074",
+    "sudivisionCodeLinks": "ISO 3166-2:BV"
+  },
+  {
+    "countryName": "Brazil",
+    "officialStateName": "The Federative Republic of Brazil",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BR",
+    "alpha-3Code": "BRA",
+    "numericCode": "076",
+    "sudivisionCodeLinks": "ISO 3166-2:BR",
+    "internet": ".br"
+  },
+  {
+    "countryName": "British Indian Ocean Territory (the)",
+    "officialStateName": "The British Indian Ocean Territory",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "IO",
+    "alpha-3Code": "IOT",
+    "numericCode": "086",
+    "sudivisionCodeLinks": "ISO 3166-2:IO",
+    "internet": ".io"
+  },
+  {
+    "countryName": "Brunei Darussalam",
+    "officialStateName": "The Nation of Brunei, the Abode of Peace",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BN",
+    "alpha-3Code": "BRN",
+    "numericCode": "096",
+    "sudivisionCodeLinks": "ISO 3166-2:BN",
+    "internet": ".bn"
+  },
+  {
+    "countryName": "Bulgaria",
+    "officialStateName": "The Republic of Bulgaria",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BG",
+    "alpha-3Code": "BGR",
+    "numericCode": "100",
+    "sudivisionCodeLinks": "ISO 3166-2:BG",
+    "internet": ".bg"
+  },
+  {
+    "countryName": "Burkina Faso",
+    "officialStateName": "Burkina Faso",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BF",
+    "alpha-3Code": "BFA",
+    "numericCode": "854",
+    "sudivisionCodeLinks": "ISO 3166-2:BF",
+    "internet": ".bf"
+  },
+  {
+    "countryName": "Burundi",
+    "officialStateName": "The Republic of Burundi",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "BI",
+    "alpha-3Code": "BDI",
+    "numericCode": "108",
+    "sudivisionCodeLinks": "ISO 3166-2:BI",
+    "internet": ".bi"
+  },
+  {
+    "countryName": "Cabo Verde",
+    "officialStateName": "The Republic of Cabo Verde",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CV",
+    "alpha-3Code": "CPV",
+    "numericCode": "132",
+    "sudivisionCodeLinks": "ISO 3166-2:CV",
+    "internet": ".cv"
+  },
+  {
+    "countryName": "Cambodia",
+    "officialStateName": "The Kingdom of Cambodia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "KH",
+    "alpha-3Code": "KHM",
+    "numericCode": "116",
+    "sudivisionCodeLinks": "ISO 3166-2:KH",
+    "internet": ".kh"
+  },
+  {
+    "countryName": "Cameroon",
+    "officialStateName": "The Republic of Cameroon",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CM",
+    "alpha-3Code": "CMR",
+    "numericCode": "120",
+    "sudivisionCodeLinks": "ISO 3166-2:CM",
+    "internet": ".cm"
+  },
+  {
+    "countryName": "Canada",
+    "officialStateName": "Canada",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CA",
+    "alpha-3Code": "CAN",
+    "numericCode": "124",
+    "sudivisionCodeLinks": "ISO 3166-2:CA",
+    "internet": ".ca"
+  },
+  {
+    "countryName": "Cayman Islands (the)",
+    "officialStateName": "The Cayman Islands",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "KY",
+    "alpha-3Code": "CYM",
+    "numericCode": "136",
+    "sudivisionCodeLinks": "ISO 3166-2:KY",
+    "internet": ".ky"
+  },
+  {
+    "countryName": "Central African Republic (the)",
+    "officialStateName": "The Central African Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CF",
+    "alpha-3Code": "CAF",
+    "numericCode": "140",
+    "sudivisionCodeLinks": "ISO 3166-2:CF",
+    "internet": ".cf"
+  },
+  {
+    "countryName": "Chad",
+    "officialStateName": "The Republic of Chad",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TD",
+    "alpha-3Code": "TCD",
+    "numericCode": "148",
+    "sudivisionCodeLinks": "ISO 3166-2:TD",
+    "internet": ".td"
+  },
+  {
+    "countryName": "Chile",
+    "officialStateName": "The Republic of Chile",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CL",
+    "alpha-3Code": "CHL",
+    "numericCode": "152",
+    "sudivisionCodeLinks": "ISO 3166-2:CL",
+    "internet": ".cl"
+  },
+  {
+    "countryName": "China",
+    "officialStateName": "The People's Republic of China",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CN",
+    "alpha-3Code": "CHN",
+    "numericCode": "156",
+    "sudivisionCodeLinks": "ISO 3166-2:CN",
+    "internet": ".cn"
+  },
+  {
+    "countryName": "Christmas Island",
+    "officialStateName": "The Territory of Christmas Island",
+    "sovereignty": "Australia",
+    "alpha-2Code": "CX",
+    "alpha-3Code": "CXR",
+    "numericCode": "162",
+    "sudivisionCodeLinks": "ISO 3166-2:CX",
+    "internet": ".cx"
+  },
+  {
+    "countryName": "Cocos (Keeling) Islands (the)",
+    "officialStateName": "The Territory of Cocos (Keeling) Islands",
+    "sovereignty": "Australia",
+    "alpha-2Code": "CC",
+    "alpha-3Code": "CCK",
+    "numericCode": "166",
+    "sudivisionCodeLinks": "ISO 3166-2:CC",
+    "internet": ".cc"
+  },
+  {
+    "countryName": "Colombia",
+    "officialStateName": "The Republic of Colombia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CO",
+    "alpha-3Code": "COL",
+    "numericCode": "170",
+    "sudivisionCodeLinks": "ISO 3166-2:CO",
+    "internet": ".co"
+  },
+  {
+    "countryName": "Comoros (the)",
+    "officialStateName": "The Union of the Comoros",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "KM",
+    "alpha-3Code": "COM",
+    "numericCode": "174",
+    "sudivisionCodeLinks": "ISO 3166-2:KM",
+    "internet": ".km"
+  },
+  {
+    "countryName": "Congo (the Democratic Republic of the)",
+    "officialStateName": "The Democratic Republic of the Congo",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CD",
+    "alpha-3Code": "COD",
+    "numericCode": "180",
+    "sudivisionCodeLinks": "ISO 3166-2:CD",
+    "internet": ".cd"
+  },
+  {
+    "countryName": "Congo (the)",
+    "officialStateName": "The Republic of the Congo",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CG",
+    "alpha-3Code": "COG",
+    "numericCode": "178",
+    "sudivisionCodeLinks": "ISO 3166-2:CG",
+    "internet": ".cg"
+  },
+  {
+    "countryName": "Cook Islands (the)",
+    "officialStateName": "The Cook Islands",
+    "sovereignty": "New Zealand",
+    "alpha-2Code": "CK",
+    "alpha-3Code": "COK",
+    "numericCode": "184",
+    "sudivisionCodeLinks": "ISO 3166-2:CK",
+    "internet": ".ck"
+  },
+  {
+    "countryName": "Costa Rica",
+    "officialStateName": "The Republic of Costa Rica",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CR",
+    "alpha-3Code": "CRI",
+    "numericCode": "188",
+    "sudivisionCodeLinks": "ISO 3166-2:CR",
+    "internet": ".cr"
+  },
+  {
+    "countryName": "Côte d'Ivoire",
+    "officialStateName": "The Republic of Côte d'Ivoire",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CI",
+    "alpha-3Code": "CIV",
+    "numericCode": "384",
+    "sudivisionCodeLinks": "ISO 3166-2:CI",
+    "internet": ".ci"
+  },
+  {
+    "countryName": "Croatia",
+    "officialStateName": "The Republic of Croatia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "HR",
+    "alpha-3Code": "HRV",
+    "numericCode": "191",
+    "sudivisionCodeLinks": "ISO 3166-2:HR",
+    "internet": ".hr"
+  },
+  {
+    "countryName": "Cuba",
+    "officialStateName": "The Republic of Cuba",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CU",
+    "alpha-3Code": "CUB",
+    "numericCode": "192",
+    "sudivisionCodeLinks": "ISO 3166-2:CU",
+    "internet": ".cu"
+  },
+  {
+    "countryName": "Curaçao",
+    "officialStateName": "The Country of Curaçao",
+    "sovereignty": "Netherlands",
+    "alpha-2Code": "CW",
+    "alpha-3Code": "CUW",
+    "numericCode": "531",
+    "sudivisionCodeLinks": "ISO 3166-2:CW",
+    "internet": ".cw"
+  },
+  {
+    "countryName": "Cyprus",
+    "officialStateName": "The Republic of Cyprus",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CY",
+    "alpha-3Code": "CYP",
+    "numericCode": "196",
+    "sudivisionCodeLinks": "ISO 3166-2:CY",
+    "internet": ".cy"
+  },
+  {
+    "countryName": "Czechia",
+    "officialStateName": "The Czech Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CZ",
+    "alpha-3Code": "CZE",
+    "numericCode": "203",
+    "sudivisionCodeLinks": "ISO 3166-2:CZ",
+    "internet": ".cz"
+  },
+  {
+    "countryName": "Denmark",
+    "officialStateName": "The Kingdom of Denmark",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "DK",
+    "alpha-3Code": "DNK",
+    "numericCode": "208",
+    "sudivisionCodeLinks": "ISO 3166-2:DK",
+    "internet": ".dk"
+  },
+  {
+    "countryName": "Djibouti",
+    "officialStateName": "The Republic of Djibouti",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "DJ",
+    "alpha-3Code": "DJI",
+    "numericCode": "262",
+    "sudivisionCodeLinks": "ISO 3166-2:DJ",
+    "internet": ".dj"
+  },
+  {
+    "countryName": "Dominica",
+    "officialStateName": "The Commonwealth of Dominica",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "DM",
+    "alpha-3Code": "DMA",
+    "numericCode": "212",
+    "sudivisionCodeLinks": "ISO 3166-2:DM",
+    "internet": ".dm"
+  },
+  {
+    "countryName": "Dominican Republic (the)",
+    "officialStateName": "The Dominican Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "DO",
+    "alpha-3Code": "DOM",
+    "numericCode": "214",
+    "sudivisionCodeLinks": "ISO 3166-2:DO",
+    "internet": ".do"
+  },
+  {
+    "countryName": "Ecuador",
+    "officialStateName": "The Republic of Ecuador",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "EC",
+    "alpha-3Code": "ECU",
+    "numericCode": "218",
+    "sudivisionCodeLinks": "ISO 3166-2:EC",
+    "internet": ".ec"
+  },
+  {
+    "countryName": "Egypt",
+    "officialStateName": "The Arab Republic of Egypt",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "EG",
+    "alpha-3Code": "EGY",
+    "numericCode": "818",
+    "sudivisionCodeLinks": "ISO 3166-2:EG",
+    "internet": ".eg"
+  },
+  {
+    "countryName": "El Salvador",
+    "officialStateName": "The Republic of El Salvador",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SV",
+    "alpha-3Code": "SLV",
+    "numericCode": "222",
+    "sudivisionCodeLinks": "ISO 3166-2:SV",
+    "internet": ".sv"
+  },
+  {
+    "countryName": "Equatorial Guinea",
+    "officialStateName": "The Republic of Equatorial Guinea",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GQ",
+    "alpha-3Code": "GNQ",
+    "numericCode": "226",
+    "sudivisionCodeLinks": "ISO 3166-2:GQ",
+    "internet": ".gq"
+  },
+  {
+    "countryName": "Eritrea",
+    "officialStateName": "The State of Eritrea",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "ER",
+    "alpha-3Code": "ERI",
+    "numericCode": "232",
+    "sudivisionCodeLinks": "ISO 3166-2:ER",
+    "internet": ".er"
+  },
+  {
+    "countryName": "Estonia",
+    "officialStateName": "The Republic of Estonia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "EE",
+    "alpha-3Code": "EST",
+    "numericCode": "233",
+    "sudivisionCodeLinks": "ISO 3166-2:EE",
+    "internet": ".ee"
+  },
+  {
+    "countryName": "Eswatini",
+    "officialStateName": "The Kingdom of Eswatini",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SZ",
+    "alpha-3Code": "SWZ",
+    "numericCode": "748",
+    "sudivisionCodeLinks": "ISO 3166-2:SZ",
+    "internet": ".sz"
+  },
+  {
+    "countryName": "Ethiopia",
+    "officialStateName": "The Federal Democratic Republic of Ethiopia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "ET",
+    "alpha-3Code": "ETH",
+    "numericCode": "231",
+    "sudivisionCodeLinks": "ISO 3166-2:ET",
+    "internet": ".et"
+  },
+  {
+    "countryName": "Falkland Islands (the) [Malvinas]",
+    "officialStateName": "The Falkland Islands",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "FK",
+    "alpha-3Code": "FLK",
+    "numericCode": "238",
+    "sudivisionCodeLinks": "ISO 3166-2:FK",
+    "internet": ".fk"
+  },
+  {
+    "countryName": "Faroe Islands (the)",
+    "officialStateName": "The Faroe Islands",
+    "sovereignty": "Denmark",
+    "alpha-2Code": "FO",
+    "alpha-3Code": "FRO",
+    "numericCode": "234",
+    "sudivisionCodeLinks": "ISO 3166-2:FO",
+    "internet": ".fo"
+  },
+  {
+    "countryName": "Fiji",
+    "officialStateName": "The Republic of Fiji",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "FJ",
+    "alpha-3Code": "FJI",
+    "numericCode": "242",
+    "sudivisionCodeLinks": "ISO 3166-2:FJ",
+    "internet": ".fj"
+  },
+  {
+    "countryName": "Finland",
+    "officialStateName": "The Republic of Finland",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "FI",
+    "alpha-3Code": "FIN",
+    "numericCode": "246",
+    "sudivisionCodeLinks": "ISO 3166-2:FI",
+    "internet": ".fi"
+  },
+  {
+    "countryName": "France",
+    "officialStateName": "The French Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "FR",
+    "alpha-3Code": "FRA",
+    "numericCode": "250",
+    "sudivisionCodeLinks": "ISO 3166-2:FR",
+    "internet": ".fr"
+  },
+  {
+    "countryName": "French Guiana",
+    "officialStateName": "Guyane",
+    "sovereignty": "France",
+    "alpha-2Code": "GF",
+    "alpha-3Code": "GUF",
+    "numericCode": "254",
+    "sudivisionCodeLinks": "ISO 3166-2:GF",
+    "internet": ".gf"
+  },
+  {
+    "countryName": "French Polynesia",
+    "officialStateName": "French Polynesia",
+    "sovereignty": "France",
+    "alpha-2Code": "PF",
+    "alpha-3Code": "PYF",
+    "numericCode": "258",
+    "sudivisionCodeLinks": "ISO 3166-2:PF",
+    "internet": ".pf"
+  },
+  {
+    "countryName": "French Southern Territories (the)",
+    "officialStateName": "The French Southern and Antarctic Lands",
+    "sovereignty": "France",
+    "alpha-2Code": "TF",
+    "alpha-3Code": "ATF",
+    "numericCode": "260",
+    "sudivisionCodeLinks": "ISO 3166-2:TF",
+    "internet": ".tf"
+  },
+  {
+    "countryName": "Gabon",
+    "officialStateName": "The Gabonese Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GA",
+    "alpha-3Code": "GAB",
+    "numericCode": "266",
+    "sudivisionCodeLinks": "ISO 3166-2:GA",
+    "internet": ".ga"
+  },
+  {
+    "countryName": "Gambia (the)",
+    "officialStateName": "The Republic of The Gambia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GM",
+    "alpha-3Code": "GMB",
+    "numericCode": "270",
+    "sudivisionCodeLinks": "ISO 3166-2:GM",
+    "internet": ".gm"
+  },
+  {
+    "countryName": "Georgia",
+    "officialStateName": "Georgia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GE",
+    "alpha-3Code": "GEO",
+    "numericCode": "268",
+    "sudivisionCodeLinks": "ISO 3166-2:GE",
+    "internet": ".ge"
+  },
+  {
+    "countryName": "Germany",
+    "officialStateName": "The Federal Republic of Germany",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "DE",
+    "alpha-3Code": "DEU",
+    "numericCode": "276",
+    "sudivisionCodeLinks": "ISO 3166-2:DE",
+    "internet": ".de"
+  },
+  {
+    "countryName": "Ghana",
+    "officialStateName": "The Republic of Ghana",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GH",
+    "alpha-3Code": "GHA",
+    "numericCode": "288",
+    "sudivisionCodeLinks": "ISO 3166-2:GH",
+    "internet": ".gh"
+  },
+  {
+    "countryName": "Gibraltar",
+    "officialStateName": "Gibraltar",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "GI",
+    "alpha-3Code": "GIB",
+    "numericCode": "292",
+    "sudivisionCodeLinks": "ISO 3166-2:GI",
+    "internet": ".gi"
+  },
+  {
+    "countryName": "Greece",
+    "officialStateName": "The Hellenic Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GR",
+    "alpha-3Code": "GRC",
+    "numericCode": "300",
+    "sudivisionCodeLinks": "ISO 3166-2:GR",
+    "internet": ".gr"
+  },
+  {
+    "countryName": "Greenland",
+    "officialStateName": "Kalaallit Nunaat",
+    "sovereignty": "Denmark",
+    "alpha-2Code": "GL",
+    "alpha-3Code": "GRL",
+    "numericCode": "304",
+    "sudivisionCodeLinks": "ISO 3166-2:GL",
+    "internet": ".gl"
+  },
+  {
+    "countryName": "Grenada",
+    "officialStateName": "Grenada",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GD",
+    "alpha-3Code": "GRD",
+    "numericCode": "308",
+    "sudivisionCodeLinks": "ISO 3166-2:GD",
+    "internet": ".gd"
+  },
+  {
+    "countryName": "Guadeloupe",
+    "officialStateName": "Guadeloupe",
+    "sovereignty": "France",
+    "alpha-2Code": "GP",
+    "alpha-3Code": "GLP",
+    "numericCode": "312",
+    "sudivisionCodeLinks": "ISO 3166-2:GP",
+    "internet": ".gp"
+  },
+  {
+    "countryName": "Guam",
+    "officialStateName": "The Territory of Guam",
+    "sovereignty": "United States",
+    "alpha-2Code": "GU",
+    "alpha-3Code": "GUM",
+    "numericCode": "316",
+    "sudivisionCodeLinks": "ISO 3166-2:GU",
+    "internet": ".gu"
+  },
+  {
+    "countryName": "Guatemala",
+    "officialStateName": "The Republic of Guatemala",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GT",
+    "alpha-3Code": "GTM",
+    "numericCode": "320",
+    "sudivisionCodeLinks": "ISO 3166-2:GT",
+    "internet": ".gt"
+  },
+  {
+    "countryName": "Guernsey",
+    "officialStateName": "The Bailiwick of Guernsey",
+    "sovereignty": "British Crown",
+    "alpha-2Code": "GG",
+    "alpha-3Code": "GGY",
+    "numericCode": "831",
+    "sudivisionCodeLinks": "ISO 3166-2:GG",
+    "internet": ".gg"
+  },
+  {
+    "countryName": "Guinea",
+    "officialStateName": "The Republic of Guinea",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GN",
+    "alpha-3Code": "GIN",
+    "numericCode": "324",
+    "sudivisionCodeLinks": "ISO 3166-2:GN",
+    "internet": ".gn"
+  },
+  {
+    "countryName": "Guinea-Bissau",
+    "officialStateName": "The Republic of Guinea-Bissau",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GW",
+    "alpha-3Code": "GNB",
+    "numericCode": "624",
+    "sudivisionCodeLinks": "ISO 3166-2:GW",
+    "internet": ".gw"
+  },
+  {
+    "countryName": "Guyana",
+    "officialStateName": "The Co-operative Republic of Guyana",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GY",
+    "alpha-3Code": "GUY",
+    "numericCode": "328",
+    "sudivisionCodeLinks": "ISO 3166-2:GY",
+    "internet": ".gy"
+  },
+  {
+    "countryName": "Haiti",
+    "officialStateName": "The Republic of Haiti",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "HT",
+    "alpha-3Code": "HTI",
+    "numericCode": "332",
+    "sudivisionCodeLinks": "ISO 3166-2:HT",
+    "internet": ".ht"
+  },
+  {
+    "countryName": "Heard Island and McDonald Islands",
+    "officialStateName": "The Territory of Heard Island and McDonald Islands",
+    "sovereignty": "Australia",
+    "alpha-2Code": "HM",
+    "alpha-3Code": "HMD",
+    "numericCode": "334",
+    "sudivisionCodeLinks": "ISO 3166-2:HM",
+    "internet": ".hm"
+  },
+  {
+    "countryName": "Holy See (the)",
+    "officialStateName": "The Holy See",
+    "sovereignty": "UN observer state",
+    "alpha-2Code": "VA",
+    "alpha-3Code": "VAT",
+    "numericCode": "336",
+    "sudivisionCodeLinks": "ISO 3166-2:VA",
+    "internet": ".va"
+  },
+  {
+    "countryName": "Honduras",
+    "officialStateName": "The Republic of Honduras",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "HN",
+    "alpha-3Code": "HND",
+    "numericCode": "340",
+    "sudivisionCodeLinks": "ISO 3166-2:HN",
+    "internet": ".hn"
+  },
+  {
+    "countryName": "Hong Kong",
+    "officialStateName": "The Hong Kong Special Administrative Region of China",
+    "sovereignty": "China",
+    "alpha-2Code": "HK",
+    "alpha-3Code": "HKG",
+    "numericCode": "344",
+    "sudivisionCodeLinks": "ISO 3166-2:HK",
+    "internet": ".hk"
+  },
+  {
+    "countryName": "Hungary",
+    "officialStateName": "Hungary",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "HU",
+    "alpha-3Code": "HUN",
+    "numericCode": "348",
+    "sudivisionCodeLinks": "ISO 3166-2:HU",
+    "internet": ".hu"
+  },
+  {
+    "countryName": "Iceland",
+    "officialStateName": "Iceland",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "IS",
+    "alpha-3Code": "ISL",
+    "numericCode": "352",
+    "sudivisionCodeLinks": "ISO 3166-2:IS",
+    "internet": ".is"
+  },
+  {
+    "countryName": "India",
+    "officialStateName": "The Republic of India",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "IN",
+    "alpha-3Code": "IND",
+    "numericCode": "356",
+    "sudivisionCodeLinks": "ISO 3166-2:IN",
+    "internet": ".in"
+  },
+  {
+    "countryName": "Indonesia",
+    "officialStateName": "The Republic of Indonesia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "ID",
+    "alpha-3Code": "IDN",
+    "numericCode": "360",
+    "sudivisionCodeLinks": "ISO 3166-2:ID",
+    "internet": ".id"
+  },
+  {
+    "countryName": "Iran (Islamic Republic of)",
+    "officialStateName": "The Islamic Republic of Iran",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "IR",
+    "alpha-3Code": "IRN",
+    "numericCode": "364",
+    "sudivisionCodeLinks": "ISO 3166-2:IR",
+    "internet": ".ir"
+  },
+  {
+    "countryName": "Iraq",
+    "officialStateName": "The Republic of Iraq",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "IQ",
+    "alpha-3Code": "IRQ",
+    "numericCode": "368",
+    "sudivisionCodeLinks": "ISO 3166-2:IQ",
+    "internet": ".iq"
+  },
+  {
+    "countryName": "Ireland",
+    "officialStateName": "Ireland",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "IE",
+    "alpha-3Code": "IRL",
+    "numericCode": "372",
+    "sudivisionCodeLinks": "ISO 3166-2:IE",
+    "internet": ".ie"
+  },
+  {
+    "countryName": "Isle of Man",
+    "officialStateName": "The Isle of Man",
+    "sovereignty": "British Crown",
+    "alpha-2Code": "IM",
+    "alpha-3Code": "IMN",
+    "numericCode": "833",
+    "sudivisionCodeLinks": "ISO 3166-2:IM",
+    "internet": ".im"
+  },
+  {
+    "countryName": "Israel",
+    "officialStateName": "The State of Israel",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "IL",
+    "alpha-3Code": "ISR",
+    "numericCode": "376",
+    "sudivisionCodeLinks": "ISO 3166-2:IL",
+    "internet": ".il"
+  },
+  {
+    "countryName": "Italy",
+    "officialStateName": "The Italian Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "IT",
+    "alpha-3Code": "ITA",
+    "numericCode": "380",
+    "sudivisionCodeLinks": "ISO 3166-2:IT",
+    "internet": ".it"
+  },
+  {
+    "countryName": "Jamaica",
+    "officialStateName": "Jamaica",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "JM",
+    "alpha-3Code": "JAM",
+    "numericCode": "388",
+    "sudivisionCodeLinks": "ISO 3166-2:JM",
+    "internet": ".jm"
+  },
+  {
+    "countryName": "Japan",
+    "officialStateName": "Japan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "JP",
+    "alpha-3Code": "JPN",
+    "numericCode": "392",
+    "sudivisionCodeLinks": "ISO 3166-2:JP",
+    "internet": ".jp"
+  },
+  {
+    "countryName": "Jersey",
+    "officialStateName": "The Bailiwick of Jersey",
+    "sovereignty": "British Crown",
+    "alpha-2Code": "JE",
+    "alpha-3Code": "JEY",
+    "numericCode": "832",
+    "sudivisionCodeLinks": "ISO 3166-2:JE",
+    "internet": ".je"
+  },
+  {
+    "countryName": "Jordan",
+    "officialStateName": "The Hashemite Kingdom of Jordan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "JO",
+    "alpha-3Code": "JOR",
+    "numericCode": "400",
+    "sudivisionCodeLinks": "ISO 3166-2:JO",
+    "internet": ".jo"
+  },
+  {
+    "countryName": "Kazakhstan",
+    "officialStateName": "The Republic of Kazakhstan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "KZ",
+    "alpha-3Code": "KAZ",
+    "numericCode": "398",
+    "sudivisionCodeLinks": "ISO 3166-2:KZ",
+    "internet": ".kz"
+  },
+  {
+    "countryName": "Kenya",
+    "officialStateName": "The Republic of Kenya",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "KE",
+    "alpha-3Code": "KEN",
+    "numericCode": "404",
+    "sudivisionCodeLinks": "ISO 3166-2:KE",
+    "internet": ".ke"
+  },
+  {
+    "countryName": "Kiribati",
+    "officialStateName": "The Republic of Kiribati",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "KI",
+    "alpha-3Code": "KIR",
+    "numericCode": "296",
+    "sudivisionCodeLinks": "ISO 3166-2:KI",
+    "internet": ".ki"
+  },
+  {
+    "countryName": "Korea (the Democratic People's Republic of)",
+    "officialStateName": "The Democratic People's Republic of Korea",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "KP",
+    "alpha-3Code": "PRK",
+    "numericCode": "408",
+    "sudivisionCodeLinks": "ISO 3166-2:KP",
+    "internet": ".kp"
+  },
+  {
+    "countryName": "Korea (the Republic of)",
+    "officialStateName": "The Republic of Korea",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "KR",
+    "alpha-3Code": "KOR",
+    "numericCode": "410",
+    "sudivisionCodeLinks": "ISO 3166-2:KR",
+    "internet": ".kr"
+  },
+  {
+    "countryName": "Kuwait",
+    "officialStateName": "The State of Kuwait",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "KW",
+    "alpha-3Code": "KWT",
+    "numericCode": "414",
+    "sudivisionCodeLinks": "ISO 3166-2:KW",
+    "internet": ".kw"
+  },
+  {
+    "countryName": "Kyrgyzstan",
+    "officialStateName": "The Kyrgyz Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "KG",
+    "alpha-3Code": "KGZ",
+    "numericCode": "417",
+    "sudivisionCodeLinks": "ISO 3166-2:KG",
+    "internet": ".kg"
+  },
+  {
+    "countryName": "Lao People's Democratic Republic (the)",
+    "officialStateName": "The Lao People's Democratic Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "LA",
+    "alpha-3Code": "LAO",
+    "numericCode": "418",
+    "sudivisionCodeLinks": "ISO 3166-2:LA",
+    "internet": ".la"
+  },
+  {
+    "countryName": "Latvia",
+    "officialStateName": "The Republic of Latvia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "LV",
+    "alpha-3Code": "LVA",
+    "numericCode": "428",
+    "sudivisionCodeLinks": "ISO 3166-2:LV",
+    "internet": ".lv"
+  },
+  {
+    "countryName": "Lebanon",
+    "officialStateName": "The Lebanese Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "LB",
+    "alpha-3Code": "LBN",
+    "numericCode": "422",
+    "sudivisionCodeLinks": "ISO 3166-2:LB",
+    "internet": ".lb"
+  },
+  {
+    "countryName": "Lesotho",
+    "officialStateName": "The Kingdom of Lesotho",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "LS",
+    "alpha-3Code": "LSO",
+    "numericCode": "426",
+    "sudivisionCodeLinks": "ISO 3166-2:LS",
+    "internet": ".ls"
+  },
+  {
+    "countryName": "Liberia",
+    "officialStateName": "The Republic of Liberia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "LR",
+    "alpha-3Code": "LBR",
+    "numericCode": "430",
+    "sudivisionCodeLinks": "ISO 3166-2:LR",
+    "internet": ".lr"
+  },
+  {
+    "countryName": "Libya",
+    "officialStateName": "The State of Libya",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "LY",
+    "alpha-3Code": "LBY",
+    "numericCode": "434",
+    "sudivisionCodeLinks": "ISO 3166-2:LY",
+    "internet": ".ly"
+  },
+  {
+    "countryName": "Liechtenstein",
+    "officialStateName": "The Principality of Liechtenstein",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "LI",
+    "alpha-3Code": "LIE",
+    "numericCode": "438",
+    "sudivisionCodeLinks": "ISO 3166-2:LI",
+    "internet": ".li"
+  },
+  {
+    "countryName": "Lithuania",
+    "officialStateName": "The Republic of Lithuania",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "LT",
+    "alpha-3Code": "LTU",
+    "numericCode": "440",
+    "sudivisionCodeLinks": "ISO 3166-2:LT",
+    "internet": ".lt"
+  },
+  {
+    "countryName": "Luxembourg",
+    "officialStateName": "The Grand Duchy of Luxembourg",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "LU",
+    "alpha-3Code": "LUX",
+    "numericCode": "442",
+    "sudivisionCodeLinks": "ISO 3166-2:LU",
+    "internet": ".lu"
+  },
+  {
+    "countryName": "Macao",
+    "officialStateName": "The Macao Special Administrative Region of China",
+    "sovereignty": "China",
+    "alpha-2Code": "MO",
+    "alpha-3Code": "MAC",
+    "numericCode": "446",
+    "sudivisionCodeLinks": "ISO 3166-2:MO",
+    "internet": ".mo"
+  },
+  {
+    "countryName": "North Macedonia",
+    "officialStateName": "The Republic of North Macedonia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MK",
+    "alpha-3Code": "MKD",
+    "numericCode": "807",
+    "sudivisionCodeLinks": "ISO 3166-2:MK",
+    "internet": ".mk"
+  },
+  {
+    "countryName": "Madagascar",
+    "officialStateName": "The Republic of Madagascar",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MG",
+    "alpha-3Code": "MDG",
+    "numericCode": "450",
+    "sudivisionCodeLinks": "ISO 3166-2:MG",
+    "internet": ".mg"
+  },
+  {
+    "countryName": "Malawi",
+    "officialStateName": "The Republic of Malawi",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MW",
+    "alpha-3Code": "MWI",
+    "numericCode": "454",
+    "sudivisionCodeLinks": "ISO 3166-2:MW",
+    "internet": ".mw"
+  },
+  {
+    "countryName": "Malaysia",
+    "officialStateName": "Malaysia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MY",
+    "alpha-3Code": "MYS",
+    "numericCode": "458",
+    "sudivisionCodeLinks": "ISO 3166-2:MY",
+    "internet": ".my"
+  },
+  {
+    "countryName": "Maldives",
+    "officialStateName": "The Republic of Maldives",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MV",
+    "alpha-3Code": "MDV",
+    "numericCode": "462",
+    "sudivisionCodeLinks": "ISO 3166-2:MV",
+    "internet": ".mv"
+  },
+  {
+    "countryName": "Mali",
+    "officialStateName": "The Republic of Mali",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "ML",
+    "alpha-3Code": "MLI",
+    "numericCode": "466",
+    "sudivisionCodeLinks": "ISO 3166-2:ML",
+    "internet": ".ml"
+  },
+  {
+    "countryName": "Malta",
+    "officialStateName": "The Republic of Malta",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MT",
+    "alpha-3Code": "MLT",
+    "numericCode": "470",
+    "sudivisionCodeLinks": "ISO 3166-2:MT",
+    "internet": ".mt"
+  },
+  {
+    "countryName": "Marshall Islands (the)",
+    "officialStateName": "The Republic of the Marshall Islands",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MH",
+    "alpha-3Code": "MHL",
+    "numericCode": "584",
+    "sudivisionCodeLinks": "ISO 3166-2:MH",
+    "internet": ".mh"
+  },
+  {
+    "countryName": "Martinique",
+    "officialStateName": "Martinique",
+    "sovereignty": "France",
+    "alpha-2Code": "MQ",
+    "alpha-3Code": "MTQ",
+    "numericCode": "474",
+    "sudivisionCodeLinks": "ISO 3166-2:MQ",
+    "internet": ".mq"
+  },
+  {
+    "countryName": "Mauritania",
+    "officialStateName": "The Islamic Republic of Mauritania",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MR",
+    "alpha-3Code": "MRT",
+    "numericCode": "478",
+    "sudivisionCodeLinks": "ISO 3166-2:MR",
+    "internet": ".mr"
+  },
+  {
+    "countryName": "Mauritius",
+    "officialStateName": "The Republic of Mauritius",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MU",
+    "alpha-3Code": "MUS",
+    "numericCode": "480",
+    "sudivisionCodeLinks": "ISO 3166-2:MU",
+    "internet": ".mu"
+  },
+  {
+    "countryName": "Mayotte",
+    "officialStateName": "The Department of Mayotte",
+    "sovereignty": "France",
+    "alpha-2Code": "YT",
+    "alpha-3Code": "MYT",
+    "numericCode": "175",
+    "sudivisionCodeLinks": "ISO 3166-2:YT",
+    "internet": ".yt"
+  },
+  {
+    "countryName": "Mexico",
+    "officialStateName": "The United Mexican States",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MX",
+    "alpha-3Code": "MEX",
+    "numericCode": "484",
+    "sudivisionCodeLinks": "ISO 3166-2:MX",
+    "internet": ".mx"
+  },
+  {
+    "countryName": "Micronesia (Federated States of)",
+    "officialStateName": "The Federated States of Micronesia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "FM",
+    "alpha-3Code": "FSM",
+    "numericCode": "583",
+    "sudivisionCodeLinks": "ISO 3166-2:FM",
+    "internet": ".fm"
+  },
+  {
+    "countryName": "Moldova (the Republic of)",
+    "officialStateName": "The Republic of Moldova",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MD",
+    "alpha-3Code": "MDA",
+    "numericCode": "498",
+    "sudivisionCodeLinks": "ISO 3166-2:MD",
+    "internet": ".md"
+  },
+  {
+    "countryName": "Monaco",
+    "officialStateName": "The Principality of Monaco",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MC",
+    "alpha-3Code": "MCO",
+    "numericCode": "492",
+    "sudivisionCodeLinks": "ISO 3166-2:MC",
+    "internet": ".mc"
+  },
+  {
+    "countryName": "Mongolia",
+    "officialStateName": "Mongolia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MN",
+    "alpha-3Code": "MNG",
+    "numericCode": "496",
+    "sudivisionCodeLinks": "ISO 3166-2:MN",
+    "internet": ".mn"
+  },
+  {
+    "countryName": "Montenegro",
+    "officialStateName": "Montenegro",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "ME",
+    "alpha-3Code": "MNE",
+    "numericCode": "499",
+    "sudivisionCodeLinks": "ISO 3166-2:ME",
+    "internet": ".me"
+  },
+  {
+    "countryName": "Montserrat",
+    "officialStateName": "Montserrat",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "MS",
+    "alpha-3Code": "MSR",
+    "numericCode": "500",
+    "sudivisionCodeLinks": "ISO 3166-2:MS",
+    "internet": ".ms"
+  },
+  {
+    "countryName": "Morocco",
+    "officialStateName": "The Kingdom of Morocco",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MA",
+    "alpha-3Code": "MAR",
+    "numericCode": "504",
+    "sudivisionCodeLinks": "ISO 3166-2:MA",
+    "internet": ".ma"
+  },
+  {
+    "countryName": "Mozambique",
+    "officialStateName": "The Republic of Mozambique",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MZ",
+    "alpha-3Code": "MOZ",
+    "numericCode": "508",
+    "sudivisionCodeLinks": "ISO 3166-2:MZ",
+    "internet": ".mz"
+  },
+  {
+    "countryName": "Myanmar",
+    "officialStateName": "The Republic of the Union of Myanmar",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "MM",
+    "alpha-3Code": "MMR",
+    "numericCode": "104",
+    "sudivisionCodeLinks": "ISO 3166-2:MM",
+    "internet": ".mm"
+  },
+  {
+    "countryName": "Namibia",
+    "officialStateName": "The Republic of Namibia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "NA",
+    "alpha-3Code": "NAM",
+    "numericCode": "516",
+    "sudivisionCodeLinks": "ISO 3166-2:NA",
+    "internet": ".na"
+  },
+  {
+    "countryName": "Nauru",
+    "officialStateName": "The Republic of Nauru",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "NR",
+    "alpha-3Code": "NRU",
+    "numericCode": "520",
+    "sudivisionCodeLinks": "ISO 3166-2:NR",
+    "internet": ".nr"
+  },
+  {
+    "countryName": "Nepal",
+    "officialStateName": "The Federal Democratic Republic of Nepal",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "NP",
+    "alpha-3Code": "NPL",
+    "numericCode": "524",
+    "sudivisionCodeLinks": "ISO 3166-2:NP",
+    "internet": ".np"
+  },
+  {
+    "countryName": "Netherlands (the)",
+    "officialStateName": "The Kingdom of the Netherlands",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "NL",
+    "alpha-3Code": "NLD",
+    "numericCode": "528",
+    "sudivisionCodeLinks": "ISO 3166-2:NL",
+    "internet": ".nl"
+  },
+  {
+    "countryName": "New Caledonia",
+    "officialStateName": "New Caledonia",
+    "sovereignty": "France",
+    "alpha-2Code": "NC",
+    "alpha-3Code": "NCL",
+    "numericCode": "540",
+    "sudivisionCodeLinks": "ISO 3166-2:NC",
+    "internet": ".nc"
+  },
+  {
+    "countryName": "New Zealand",
+    "officialStateName": "New Zealand",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "NZ",
+    "alpha-3Code": "NZL",
+    "numericCode": "554",
+    "sudivisionCodeLinks": "ISO 3166-2:NZ",
+    "internet": ".nz"
+  },
+  {
+    "countryName": "Nicaragua",
+    "officialStateName": "The Republic of Nicaragua",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "NI",
+    "alpha-3Code": "NIC",
+    "numericCode": "558",
+    "sudivisionCodeLinks": "ISO 3166-2:NI",
+    "internet": ".ni"
+  },
+  {
+    "countryName": "Niger (the)",
+    "officialStateName": "The Republic of the Niger",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "NE",
+    "alpha-3Code": "NER",
+    "numericCode": "562",
+    "sudivisionCodeLinks": "ISO 3166-2:NE",
+    "internet": ".ne"
+  },
+  {
+    "countryName": "Nigeria",
+    "officialStateName": "The Federal Republic of Nigeria",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "NG",
+    "alpha-3Code": "NGA",
+    "numericCode": "566",
+    "sudivisionCodeLinks": "ISO 3166-2:NG",
+    "internet": ".ng"
+  },
+  {
+    "countryName": "Niue",
+    "officialStateName": "Niue",
+    "sovereignty": "New Zealand",
+    "alpha-2Code": "NU",
+    "alpha-3Code": "NIU",
+    "numericCode": "570",
+    "sudivisionCodeLinks": "ISO 3166-2:NU",
+    "internet": ".nu"
+  },
+  {
+    "countryName": "Norfolk Island",
+    "officialStateName": "The Territory of Norfolk Island",
+    "sovereignty": "Australia",
+    "alpha-2Code": "NF",
+    "alpha-3Code": "NFK",
+    "numericCode": "574",
+    "sudivisionCodeLinks": "ISO 3166-2:NF",
+    "internet": ".nf"
+  },
+  {
+    "countryName": "Northern Mariana Islands (the)",
+    "officialStateName": "The Commonwealth of the Northern Mariana Islands",
+    "sovereignty": "United States",
+    "alpha-2Code": "MP",
+    "alpha-3Code": "MNP",
+    "numericCode": "580",
+    "sudivisionCodeLinks": "ISO 3166-2:MP",
+    "internet": ".mp"
+  },
+  {
+    "countryName": "Norway",
+    "officialStateName": "The Kingdom of Norway",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "NO",
+    "alpha-3Code": "NOR",
+    "numericCode": "578",
+    "sudivisionCodeLinks": "ISO 3166-2:NO",
+    "internet": ".no"
+  },
+  {
+    "countryName": "Oman",
+    "officialStateName": "The Sultanate of Oman",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "OM",
+    "alpha-3Code": "OMN",
+    "numericCode": "512",
+    "sudivisionCodeLinks": "ISO 3166-2:OM",
+    "internet": ".om"
+  },
+  {
+    "countryName": "Pakistan",
+    "officialStateName": "The Islamic Republic of Pakistan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "PK",
+    "alpha-3Code": "PAK",
+    "numericCode": "586",
+    "sudivisionCodeLinks": "ISO 3166-2:PK",
+    "internet": ".pk"
+  },
+  {
+    "countryName": "Palau",
+    "officialStateName": "The Republic of Palau",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "PW",
+    "alpha-3Code": "PLW",
+    "numericCode": "585",
+    "sudivisionCodeLinks": "ISO 3166-2:PW",
+    "internet": ".pw"
+  },
+  {
+    "countryName": "Palestine, State of",
+    "officialStateName": "The State of Palestine",
+    "sovereignty": "UN observer state",
+    "alpha-2Code": "PS",
+    "alpha-3Code": "PSE",
+    "numericCode": "275",
+    "sudivisionCodeLinks": "ISO 3166-2:PS",
+    "internet": ".ps"
+  },
+  {
+    "countryName": "Panama",
+    "officialStateName": "The Republic of Panamá",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "PA",
+    "alpha-3Code": "PAN",
+    "numericCode": "591",
+    "sudivisionCodeLinks": "ISO 3166-2:PA",
+    "internet": ".pa"
+  },
+  {
+    "countryName": "Papua New Guinea",
+    "officialStateName": "The Independent State of Papua New Guinea",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "PG",
+    "alpha-3Code": "PNG",
+    "numericCode": "598",
+    "sudivisionCodeLinks": "ISO 3166-2:PG",
+    "internet": ".pg"
+  },
+  {
+    "countryName": "Paraguay",
+    "officialStateName": "The Republic of Paraguay",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "PY",
+    "alpha-3Code": "PRY",
+    "numericCode": "600",
+    "sudivisionCodeLinks": "ISO 3166-2:PY",
+    "internet": ".py"
+  },
+  {
+    "countryName": "Peru",
+    "officialStateName": "The Republic of Perú",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "PE",
+    "alpha-3Code": "PER",
+    "numericCode": "604",
+    "sudivisionCodeLinks": "ISO 3166-2:PE",
+    "internet": ".pe"
+  },
+  {
+    "countryName": "Philippines (the)",
+    "officialStateName": "The Republic of the Philippines",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "PH",
+    "alpha-3Code": "PHL",
+    "numericCode": "608",
+    "sudivisionCodeLinks": "ISO 3166-2:PH",
+    "internet": ".ph"
+  },
+  {
+    "countryName": "Pitcairn",
+    "officialStateName": "The Pitcairn, Henderson, Ducie and Oeno Islands",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "PN",
+    "alpha-3Code": "PCN",
+    "numericCode": "612",
+    "sudivisionCodeLinks": "ISO 3166-2:PN",
+    "internet": ".pn"
+  },
+  {
+    "countryName": "Poland",
+    "officialStateName": "The Republic of Poland",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "PL",
+    "alpha-3Code": "POL",
+    "numericCode": "616",
+    "sudivisionCodeLinks": "ISO 3166-2:PL",
+    "internet": ".pl"
+  },
+  {
+    "countryName": "Portugal",
+    "officialStateName": "The Portuguese Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "PT",
+    "alpha-3Code": "PRT",
+    "numericCode": "620",
+    "sudivisionCodeLinks": "ISO 3166-2:PT",
+    "internet": ".pt"
+  },
+  {
+    "countryName": "Puerto Rico",
+    "officialStateName": "The Commonwealth of Puerto Rico",
+    "sovereignty": "United States",
+    "alpha-2Code": "PR",
+    "alpha-3Code": "PRI",
+    "numericCode": "630",
+    "sudivisionCodeLinks": "ISO 3166-2:PR",
+    "internet": ".pr"
+  },
+  {
+    "countryName": "Qatar",
+    "officialStateName": "The State of Qatar",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "QA",
+    "alpha-3Code": "QAT",
+    "numericCode": "634",
+    "sudivisionCodeLinks": "ISO 3166-2:QA",
+    "internet": ".qa"
+  },
+  {
+    "countryName": "Réunion",
+    "officialStateName": "Réunion",
+    "sovereignty": "France",
+    "alpha-2Code": "RE",
+    "alpha-3Code": "REU",
+    "numericCode": "638",
+    "sudivisionCodeLinks": "ISO 3166-2:RE",
+    "internet": ".re"
+  },
+  {
+    "countryName": "Romania",
+    "officialStateName": "Romania",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "RO",
+    "alpha-3Code": "ROU",
+    "numericCode": "642",
+    "sudivisionCodeLinks": "ISO 3166-2:RO",
+    "internet": ".ro"
+  },
+  {
+    "countryName": "Russian Federation (the)",
+    "officialStateName": "The Russian Federation",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "RU",
+    "alpha-3Code": "RUS",
+    "numericCode": "643",
+    "sudivisionCodeLinks": "ISO 3166-2:RU",
+    "internet": ".ru"
+  },
+  {
+    "countryName": "Rwanda",
+    "officialStateName": "The Republic of Rwanda",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "RW",
+    "alpha-3Code": "RWA",
+    "numericCode": "646",
+    "sudivisionCodeLinks": "ISO 3166-2:RW",
+    "internet": ".rw"
+  },
+  {
+    "countryName": "Saint Barthélemy",
+    "officialStateName": "The Collectivity of Saint-Barthélemy",
+    "sovereignty": "France",
+    "alpha-2Code": "BL",
+    "alpha-3Code": "BLM",
+    "numericCode": "652",
+    "sudivisionCodeLinks": "ISO 3166-2:BL",
+    "internet": ".bl"
+  },
+  {
+    "countryName": "Saint Helena",
+    "officialStateName": "Saint Helena, Ascension and Tristan da Cunha",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "SH",
+    "alpha-3Code": "SHN",
+    "numericCode": "654",
+    "sudivisionCodeLinks": "ISO 3166-2:SH",
+    "internet": ".sh"
+  },
+  {
+    "countryName": "Ascension Island",
+    "officialStateName": "Saint Helena, Ascension and Tristan da Cunha",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "SH",
+    "alpha-3Code": "SHN",
+    "numericCode": "654",
+    "sudivisionCodeLinks": "ISO 3166-2:SH",
+    "internet": ".sh"
+  },
+  {
+    "countryName": "Tristan da Cunha",
+    "officialStateName": "Saint Helena, Ascension and Tristan da Cunha",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "SH",
+    "alpha-3Code": "SHN",
+    "numericCode": "654",
+    "sudivisionCodeLinks": "ISO 3166-2:SH",
+    "internet": ".sh"
+  },
+  {
+    "countryName": "Saint Kitts and Nevis",
+    "officialStateName": "Saint Kitts and Nevis",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "KN",
+    "alpha-3Code": "KNA",
+    "numericCode": "659",
+    "sudivisionCodeLinks": "ISO 3166-2:KN",
+    "internet": ".kn"
+  },
+  {
+    "countryName": "Saint Lucia",
+    "officialStateName": "Saint Lucia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "LC",
+    "alpha-3Code": "LCA",
+    "numericCode": "662",
+    "sudivisionCodeLinks": "ISO 3166-2:LC",
+    "internet": ".lc"
+  },
+  {
+    "countryName": "Saint Martin (French part)",
+    "officialStateName": "The Collectivity of Saint-Martin",
+    "sovereignty": "France",
+    "alpha-2Code": "MF",
+    "alpha-3Code": "MAF",
+    "numericCode": "663",
+    "sudivisionCodeLinks": "ISO 3166-2:MF",
+    "internet": ".mf"
+  },
+  {
+    "countryName": "Saint Pierre and Miquelon",
+    "officialStateName": "The Overseas Collectivity of Saint-Pierre and Miquelon",
+    "sovereignty": "France",
+    "alpha-2Code": "PM",
+    "alpha-3Code": "SPM",
+    "numericCode": "666",
+    "sudivisionCodeLinks": "ISO 3166-2:PM",
+    "internet": ".pm"
+  },
+  {
+    "countryName": "Saint Vincent and the Grenadines",
+    "officialStateName": "Saint Vincent and the Grenadines",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "VC",
+    "alpha-3Code": "VCT",
+    "numericCode": "670",
+    "sudivisionCodeLinks": "ISO 3166-2:VC",
+    "internet": ".vc"
+  },
+  {
+    "countryName": "Samoa",
+    "officialStateName": "The Independent State of Samoa",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "WS",
+    "alpha-3Code": "WSM",
+    "numericCode": "882",
+    "sudivisionCodeLinks": "ISO 3166-2:WS",
+    "internet": ".ws"
+  },
+  {
+    "countryName": "San Marino",
+    "officialStateName": "The Republic of San Marino",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SM",
+    "alpha-3Code": "SMR",
+    "numericCode": "674",
+    "sudivisionCodeLinks": "ISO 3166-2:SM",
+    "internet": ".sm"
+  },
+  {
+    "countryName": "Sao Tome and Principe",
+    "officialStateName": "The Democratic Republic of São Tomé and Príncipe",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "ST",
+    "alpha-3Code": "STP",
+    "numericCode": "678",
+    "sudivisionCodeLinks": "ISO 3166-2:ST",
+    "internet": ".st"
+  },
+  {
+    "countryName": "Saudi Arabia",
+    "officialStateName": "The Kingdom of Saudi Arabia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SA",
+    "alpha-3Code": "SAU",
+    "numericCode": "682",
+    "sudivisionCodeLinks": "ISO 3166-2:SA",
+    "internet": ".sa"
+  },
+  {
+    "countryName": "Senegal",
+    "officialStateName": "The Republic of Senegal",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SN",
+    "alpha-3Code": "SEN",
+    "numericCode": "686",
+    "sudivisionCodeLinks": "ISO 3166-2:SN",
+    "internet": ".sn"
+  },
+  {
+    "countryName": "Serbia",
+    "officialStateName": "The Republic of Serbia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "RS",
+    "alpha-3Code": "SRB",
+    "numericCode": "688",
+    "sudivisionCodeLinks": "ISO 3166-2:RS",
+    "internet": ".rs"
+  },
+  {
+    "countryName": "Seychelles",
+    "officialStateName": "The Republic of Seychelles",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SC",
+    "alpha-3Code": "SYC",
+    "numericCode": "690",
+    "sudivisionCodeLinks": "ISO 3166-2:SC",
+    "internet": ".sc"
+  },
+  {
+    "countryName": "Sierra Leone",
+    "officialStateName": "The Republic of Sierra Leone",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SL",
+    "alpha-3Code": "SLE",
+    "numericCode": "694",
+    "sudivisionCodeLinks": "ISO 3166-2:SL",
+    "internet": ".sl"
+  },
+  {
+    "countryName": "Singapore",
+    "officialStateName": "The Republic of Singapore",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SG",
+    "alpha-3Code": "SGP",
+    "numericCode": "702",
+    "sudivisionCodeLinks": "ISO 3166-2:SG",
+    "internet": ".sg"
+  },
+  {
+    "countryName": "Sint Maarten (Dutch part)",
+    "officialStateName": "Sint Maarten",
+    "sovereignty": "Netherlands",
+    "alpha-2Code": "SX",
+    "alpha-3Code": "SXM",
+    "numericCode": "534",
+    "sudivisionCodeLinks": "ISO 3166-2:SX",
+    "internet": ".sx"
+  },
+  {
+    "countryName": "Slovakia",
+    "officialStateName": "The Slovak Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SK",
+    "alpha-3Code": "SVK",
+    "numericCode": "703",
+    "sudivisionCodeLinks": "ISO 3166-2:SK",
+    "internet": ".sk"
+  },
+  {
+    "countryName": "Slovenia",
+    "officialStateName": "The Republic of Slovenia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SI",
+    "alpha-3Code": "SVN",
+    "numericCode": "705",
+    "sudivisionCodeLinks": "ISO 3166-2:SI",
+    "internet": ".si"
+  },
+  {
+    "countryName": "Solomon Islands",
+    "officialStateName": "The Solomon Islands",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SB",
+    "alpha-3Code": "SLB",
+    "numericCode": "090",
+    "sudivisionCodeLinks": "ISO 3166-2:SB",
+    "internet": ".sb"
+  },
+  {
+    "countryName": "Somalia",
+    "officialStateName": "The Federal Republic of Somalia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SO",
+    "alpha-3Code": "SOM",
+    "numericCode": "706",
+    "sudivisionCodeLinks": "ISO 3166-2:SO",
+    "internet": ".so"
+  },
+  {
+    "countryName": "South Africa",
+    "officialStateName": "The Republic of South Africa",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "ZA",
+    "alpha-3Code": "ZAF",
+    "numericCode": "710",
+    "sudivisionCodeLinks": "ISO 3166-2:ZA",
+    "internet": ".za"
+  },
+  {
+    "countryName": "South Georgia and the South Sandwich Islands",
+    "officialStateName": "South Georgia and the South Sandwich Islands",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "GS",
+    "alpha-3Code": "SGS",
+    "numericCode": "239",
+    "sudivisionCodeLinks": "ISO 3166-2:GS",
+    "internet": ".gs"
+  },
+  {
+    "countryName": "South Sudan",
+    "officialStateName": "The Republic of South Sudan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SS",
+    "alpha-3Code": "SSD",
+    "numericCode": "728",
+    "sudivisionCodeLinks": "ISO 3166-2:SS",
+    "internet": ".ss"
+  },
+  {
+    "countryName": "Spain",
+    "officialStateName": "The Kingdom of Spain",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "ES",
+    "alpha-3Code": "ESP",
+    "numericCode": "724",
+    "sudivisionCodeLinks": "ISO 3166-2:ES",
+    "internet": ".es"
+  },
+  {
+    "countryName": "Sri Lanka",
+    "officialStateName": "The Democratic Socialist Republic of Sri Lanka",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "LK",
+    "alpha-3Code": "LKA",
+    "numericCode": "144",
+    "sudivisionCodeLinks": "ISO 3166-2:LK",
+    "internet": ".lk"
+  },
+  {
+    "countryName": "Sudan (the)",
+    "officialStateName": "The Republic of the Sudan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SD",
+    "alpha-3Code": "SDN",
+    "numericCode": "729",
+    "sudivisionCodeLinks": "ISO 3166-2:SD",
+    "internet": ".sd"
+  },
+  {
+    "countryName": "Suriname",
+    "officialStateName": "The Republic of Suriname",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SR",
+    "alpha-3Code": "SUR",
+    "numericCode": "740",
+    "sudivisionCodeLinks": "ISO 3166-2:SR",
+    "internet": ".sr"
+  },
+  {
+    "countryName": "Svalbard",
+    "officialStateName": "Svalbard and Jan Mayen",
+    "sovereignty": "Norway",
+    "alpha-2Code": "SJ",
+    "alpha-3Code": "SJM",
+    "numericCode": "744",
+    "sudivisionCodeLinks": "ISO 3166-2:SJ"
+  },
+  {
+    "countryName": "Jan Mayen",
+    "officialStateName": "Svalbard and Jan Mayen",
+    "sovereignty": "Norway",
+    "alpha-2Code": "SJ",
+    "alpha-3Code": "SJM",
+    "numericCode": "744",
+    "sudivisionCodeLinks": "ISO 3166-2:SJ"
+  },
+  {
+    "countryName": "Sweden",
+    "officialStateName": "The Kingdom of Sweden",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SE",
+    "alpha-3Code": "SWE",
+    "numericCode": "752",
+    "sudivisionCodeLinks": "ISO 3166-2:SE",
+    "internet": ".se"
+  },
+  {
+    "countryName": "Switzerland",
+    "officialStateName": "The Swiss Confederation",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "CH",
+    "alpha-3Code": "CHE",
+    "numericCode": "756",
+    "sudivisionCodeLinks": "ISO 3166-2:CH",
+    "internet": ".ch"
+  },
+  {
+    "countryName": "Syrian Arab Republic (the)",
+    "officialStateName": "The Syrian Arab Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "SY",
+    "alpha-3Code": "SYR",
+    "numericCode": "760",
+    "sudivisionCodeLinks": "ISO 3166-2:SY",
+    "internet": ".sy"
+  },
+  {
+    "countryName": "Taiwan (Province of China)",
+    "officialStateName": "The Republic of China",
+    "sovereignty": "Disputed",
+    "alpha-2Code": "TW",
+    "alpha-3Code": "TWN",
+    "numericCode": "158",
+    "sudivisionCodeLinks": "ISO 3166-2:TW",
+    "internet": ".tw"
+  },
+  {
+    "countryName": "Tajikistan",
+    "officialStateName": "The Republic of Tajikistan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TJ",
+    "alpha-3Code": "TJK",
+    "numericCode": "762",
+    "sudivisionCodeLinks": "ISO 3166-2:TJ",
+    "internet": ".tj"
+  },
+  {
+    "countryName": "Tanzania, the United Republic of",
+    "officialStateName": "The United Republic of Tanzania",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TZ",
+    "alpha-3Code": "TZA",
+    "numericCode": "834",
+    "sudivisionCodeLinks": "ISO 3166-2:TZ",
+    "internet": ".tz"
+  },
+  {
+    "countryName": "Thailand",
+    "officialStateName": "The Kingdom of Thailand",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TH",
+    "alpha-3Code": "THA",
+    "numericCode": "764",
+    "sudivisionCodeLinks": "ISO 3166-2:TH",
+    "internet": ".th"
+  },
+  {
+    "countryName": "Timor-Leste",
+    "officialStateName": "The Democratic Republic of Timor-Leste",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TL",
+    "alpha-3Code": "TLS",
+    "numericCode": "626",
+    "sudivisionCodeLinks": "ISO 3166-2:TL",
+    "internet": ".tl"
+  },
+  {
+    "countryName": "Togo",
+    "officialStateName": "The Togolese Republic",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TG",
+    "alpha-3Code": "TGO",
+    "numericCode": "768",
+    "sudivisionCodeLinks": "ISO 3166-2:TG",
+    "internet": ".tg"
+  },
+  {
+    "countryName": "Tokelau",
+    "officialStateName": "Tokelau",
+    "sovereignty": "New Zealand",
+    "alpha-2Code": "TK",
+    "alpha-3Code": "TKL",
+    "numericCode": "772",
+    "sudivisionCodeLinks": "ISO 3166-2:TK",
+    "internet": ".tk"
+  },
+  {
+    "countryName": "Tonga",
+    "officialStateName": "The Kingdom of Tonga",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TO",
+    "alpha-3Code": "TON",
+    "numericCode": "776",
+    "sudivisionCodeLinks": "ISO 3166-2:TO",
+    "internet": ".to"
+  },
+  {
+    "countryName": "Trinidad and Tobago",
+    "officialStateName": "The Republic of Trinidad and Tobago",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TT",
+    "alpha-3Code": "TTO",
+    "numericCode": "780",
+    "sudivisionCodeLinks": "ISO 3166-2:TT",
+    "internet": ".tt"
+  },
+  {
+    "countryName": "Tunisia",
+    "officialStateName": "The Republic of Tunisia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TN",
+    "alpha-3Code": "TUN",
+    "numericCode": "788",
+    "sudivisionCodeLinks": "ISO 3166-2:TN",
+    "internet": ".tn"
+  },
+  {
+    "countryName": "Turkey",
+    "officialStateName": "The Republic of Turkey",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TR",
+    "alpha-3Code": "TUR",
+    "numericCode": "792",
+    "sudivisionCodeLinks": "ISO 3166-2:TR",
+    "internet": ".tr"
+  },
+  {
+    "countryName": "Turkmenistan",
+    "officialStateName": "Turkmenistan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TM",
+    "alpha-3Code": "TKM",
+    "numericCode": "795",
+    "sudivisionCodeLinks": "ISO 3166-2:TM",
+    "internet": ".tm"
+  },
+  {
+    "countryName": "Turks and Caicos Islands (the)",
+    "officialStateName": "The Turks and Caicos Islands",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "TC",
+    "alpha-3Code": "TCA",
+    "numericCode": "796",
+    "sudivisionCodeLinks": "ISO 3166-2:TC",
+    "internet": ".tc"
+  },
+  {
+    "countryName": "Tuvalu",
+    "officialStateName": "Tuvalu",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "TV",
+    "alpha-3Code": "TUV",
+    "numericCode": "798",
+    "sudivisionCodeLinks": "ISO 3166-2:TV",
+    "internet": ".tv"
+  },
+  {
+    "countryName": "Uganda",
+    "officialStateName": "The Republic of Uganda",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "UG",
+    "alpha-3Code": "UGA",
+    "numericCode": "800",
+    "sudivisionCodeLinks": "ISO 3166-2:UG",
+    "internet": ".ug"
+  },
+  {
+    "countryName": "Ukraine",
+    "officialStateName": "Ukraine",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "UA",
+    "alpha-3Code": "UKR",
+    "numericCode": "804",
+    "sudivisionCodeLinks": "ISO 3166-2:UA",
+    "internet": ".ua"
+  },
+  {
+    "countryName": "United Arab Emirates (the)",
+    "officialStateName": "The United Arab Emirates",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "AE",
+    "alpha-3Code": "ARE",
+    "numericCode": "784",
+    "sudivisionCodeLinks": "ISO 3166-2:AE",
+    "internet": ".ae"
+  },
+  {
+    "countryName": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "officialStateName": "The United Kingdom of Great Britain and Northern Ireland",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "GB",
+    "alpha-3Code": "GBR",
+    "numericCode": "826",
+    "sudivisionCodeLinks": "ISO 3166-2:GB",
+    "internet": ".gb .uk"
+  },
+  {
+    "countryName": "United States Minor Outlying Islands (the)",
+    "officialStateName": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Navassa Island, Palmyra Atoll, and Wake Island",
+    "sovereignty": "United States",
+    "alpha-2Code": "UM",
+    "alpha-3Code": "UMI",
+    "numericCode": "581",
+    "sudivisionCodeLinks": "ISO 3166-2:UM"
+  },
+  {
+    "countryName": "United States of America (the)",
+    "officialStateName": "The United States of America",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "US",
+    "alpha-3Code": "USA",
+    "numericCode": "840",
+    "sudivisionCodeLinks": "ISO 3166-2:US",
+    "internet": ".us"
+  },
+  {
+    "countryName": "Uruguay",
+    "officialStateName": "The Oriental Republic of Uruguay",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "UY",
+    "alpha-3Code": "URY",
+    "numericCode": "858",
+    "sudivisionCodeLinks": "ISO 3166-2:UY",
+    "internet": ".uy"
+  },
+  {
+    "countryName": "Uzbekistan",
+    "officialStateName": "The Republic of Uzbekistan",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "UZ",
+    "alpha-3Code": "UZB",
+    "numericCode": "860",
+    "sudivisionCodeLinks": "ISO 3166-2:UZ",
+    "internet": ".uz"
+  },
+  {
+    "countryName": "Vanuatu",
+    "officialStateName": "The Republic of Vanuatu",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "VU",
+    "alpha-3Code": "VUT",
+    "numericCode": "548",
+    "sudivisionCodeLinks": "ISO 3166-2:VU",
+    "internet": ".vu"
+  },
+  {
+    "countryName": "Venezuela (Bolivarian Republic of)",
+    "officialStateName": "The Bolivarian Republic of Venezuela",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "VE",
+    "alpha-3Code": "VEN",
+    "numericCode": "862",
+    "sudivisionCodeLinks": "ISO 3166-2:VE",
+    "internet": ".ve"
+  },
+  {
+    "countryName": "Viet Nam",
+    "officialStateName": "The Socialist Republic of Viet Nam",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "VN",
+    "alpha-3Code": "VNM",
+    "numericCode": "704",
+    "sudivisionCodeLinks": "ISO 3166-2:VN",
+    "internet": ".vn"
+  },
+  {
+    "countryName": "Virgin Islands (British)",
+    "officialStateName": "The Virgin Islands",
+    "sovereignty": "United Kingdom",
+    "alpha-2Code": "VG",
+    "alpha-3Code": "VGB",
+    "numericCode": "092",
+    "sudivisionCodeLinks": "ISO 3166-2:VG",
+    "internet": ".vg"
+  },
+  {
+    "countryName": "Virgin Islands (U.S.)",
+    "officialStateName": "The Virgin Islands of the United States",
+    "sovereignty": "United States",
+    "alpha-2Code": "VI",
+    "alpha-3Code": "VIR",
+    "numericCode": "850",
+    "sudivisionCodeLinks": "ISO 3166-2:VI",
+    "internet": ".vi"
+  },
+  {
+    "countryName": "Wallis and Futuna",
+    "officialStateName": "The Territory of the Wallis and Futuna Islands",
+    "sovereignty": "France",
+    "alpha-2Code": "WF",
+    "alpha-3Code": "WLF",
+    "numericCode": "876",
+    "sudivisionCodeLinks": "ISO 3166-2:WF",
+    "internet": ".wf"
+  },
+  {
+    "countryName": "Western Sahara",
+    "officialStateName": "The Sahrawi Arab Democratic Republic",
+    "sovereignty": "Disputed",
+    "alpha-2Code": "EH",
+    "alpha-3Code": "ESH",
+    "numericCode": "732",
+    "sudivisionCodeLinks": "ISO 3166-2:EH"
+  },
+  {
+    "countryName": "Yemen",
+    "officialStateName": "The Republic of Yemen",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "YE",
+    "alpha-3Code": "YEM",
+    "numericCode": "887",
+    "sudivisionCodeLinks": "ISO 3166-2:YE",
+    "internet": ".ye"
+  },
+  {
+    "countryName": "Zambia",
+    "officialStateName": "The Republic of Zambia",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "ZM",
+    "alpha-3Code": "ZMB",
+    "numericCode": "894",
+    "sudivisionCodeLinks": "ISO 3166-2:ZM",
+    "internet": ".zm"
+  },
+  {
+    "countryName": "Zimbabwe",
+    "officialStateName": "The Republic of Zimbabwe",
+    "sovereignty": "UN member state",
+    "alpha-2Code": "ZW",
+    "alpha-3Code": "ZWE",
+    "numericCode": "716",
+    "sudivisionCodeLinks": "ISO 3166-2:ZW",
+    "internet": ".zw"
+  }
+]

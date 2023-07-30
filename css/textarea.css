@@ -1,0 +1,33 @@
+#message {
+    resize: vertical;
+}
+textarea.form-control {
+    height: auto;
+}
+.form-control {
+    background: lightgray;
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #F5F5F5;
+    background-clip: padding-box;
+    border: 1px solid #4154f1;
+    border-radius: .25rem;
+}
+textarea:focus {
+    box-shadow: 5px 5px 5px #4154f1;
+}
+textarea {
+    overflow: auto;
+    resize: vertical;
+    font-family: "Segoe UI", Tahoma, sans-serif;
+}
+.form-group {
+    margin-bottom: 1rem;
+    display: block;
+}

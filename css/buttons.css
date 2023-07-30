@@ -1,0 +1,61 @@
+.btn {
+    border-radius: 9px;
+    background-color: #4154f1;
+    width: 145px;
+    height: 32px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    margin-right: 8px;
+    border: none;
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 50%);
+    margin: 50px auto;
+}
+.btn-circle {
+    height: 50px;
+    line-height: 50px;
+    width: 50px;
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 50%;
+    background-color: #4154f1;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn-google {
+    border-radius: 9px;
+    background-color: white;
+    width: 145px;
+    height: 32px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    text-align: center;
+    color: rgb(0, 117, 219);
+    cursor: pointer;
+    margin-right: 8px;
+    border: none;
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 50%);
+    margin: 50px auto;
+}
